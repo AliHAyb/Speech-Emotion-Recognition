@@ -6,7 +6,7 @@ via the learning of the caracteristics of a speech signal in a form of an audio 
 
 In this project:
 
--The Dataset used is the RAVDESS Emotional speech audio downloaded from Kaggle.
+-The Dataset used is the RAVDESS Emotional speech audio downloaded from Kaggle. 
 This dataset have 24 folders.
 Each folder contains 60 audio files recorded by an different actor.
 Hence, total of 60*24 i.e 1440 audio files.
@@ -15,9 +15,9 @@ The dataset consists a total of 8 emotions, or 8 classes.
 The emotions are: "Sad", "Happy", "Angry", "disgust", "Neutral", "Surprised", "Calm" and "Fearful".
 The size of the dataset is 450mbs.
 
--The major libraries used in my notebook are:
-1-Librosa: For speech feature extraction from raw audio files.
-2-Scikitlearn: For ML and Preprocessing
+-The major libraries used in my notebook are:\n
+1-Librosa: For speech feature extraction from raw audio files.\n
+2-Scikitlearn: For ML and Preprocessing\n
 3-Tensorflow: For building Deep Learning Models
 And of course, Numpy, Pandas and matplotlib among others.
 
