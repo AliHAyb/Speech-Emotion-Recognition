@@ -15,9 +15,9 @@ The dataset consists a total of 8 emotions, or 8 classes.
 The emotions are: "Sad", "Happy", "Angry", "disgust", "Neutral", "Surprised", "Calm" and "Fearful".
 The size of the dataset is 450mbs.
 
--The major libraries used in my notebook are:\n
-1-Librosa: For speech feature extraction from raw audio files.\n
-2-Scikitlearn: For ML and Preprocessing\n
+-The major libraries used in my notebook are:
+1-Librosa: For speech feature extraction from raw audio files.
+2-Scikitlearn: For ML and Preprocessing
 3-Tensorflow: For building Deep Learning Models
 And of course, Numpy, Pandas and matplotlib among others.
 
